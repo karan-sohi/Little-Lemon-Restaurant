@@ -1,0 +1,12 @@
+.testimonial-card {
+    background-color: #edefee;
+    border-radius: 7px;
+}
+
+.stars img {
+    max-width: 30px;
+}
+
+.testimonial-user {
+    max-width: 100px;
+}

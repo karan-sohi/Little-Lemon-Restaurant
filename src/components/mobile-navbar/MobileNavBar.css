@@ -1,0 +1,15 @@
+.mobile-navbar {
+    margin-top: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.mobile-navbar li {
+    margin-bottom: 1em;
+    margin-left: 1em;
+    padding: 4px;
+}
+
+.mobile-navbar li:hover {
+    cursor: pointer;
+}

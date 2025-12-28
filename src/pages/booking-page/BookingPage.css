@@ -1,0 +1,19 @@
+.booking-page {
+    background-color: #edefee;
+}
+
+.booking-page input,
+.booking-page select {
+    background-color: #495e57;
+    color: white;
+}
+
+.booking-page label {
+    font-weight: 600;
+}
+
+.booking-page button {
+    background-color: #ee9972;
+    border-radius: .25rem;
+}
+

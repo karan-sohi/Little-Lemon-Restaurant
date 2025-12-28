@@ -1,0 +1,16 @@
+.header-list ul {
+    display: flex;
+}
+
+.header-list ul li {
+    margin-right: 1em;
+}
+
+ul li {
+    font-weight: 600;
+}
+
+ul li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

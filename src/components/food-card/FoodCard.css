@@ -1,0 +1,22 @@
+.food-card {
+    background-color: #edefee;
+    color: #333333;
+    display: flex;
+    flex-direction: column;
+    padding: .5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: .6rem;
+}
+
+.food-card h4 {
+    color: #ee9972;
+}
+
+.food-card p {
+    color: #495e57;
+}
+
+.food-card button:hover {
+    text-decoration: underline;
+}
